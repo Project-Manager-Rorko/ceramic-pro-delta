@@ -23,11 +23,13 @@ function cp_video($url, $id, $class = '') {
     return '<!-- wp:video ' . wp_json_encode($attrs) . ' -->\n<figure class="wp-block-video' . ($class ? ' ' . esc_attr($class) : '') . '"><video autoplay loop muted src="' . esc_url($url) . '"></video></figure>\n<!-- /wp:video -->';
 }
 function cp_group($inner, $class = '', $background = '', $text = '') {
-    $attrs = ['layout' => ['type' => 'constrained']];
-    if ($class) $attrs['className'] = $class;
-    if ($background) $attrs['style']['color']['background'] = $background;
-    if ($text) $attrs['style']['color']['text'] = $text;
-    return '<!-- wp:group ' . wp_json_encode($attrs) . ' -->\n<div class="wp-block-group' . ($class ? ' ' . esc_attr($class) : '') . '">' . $inner . '</div>\n<!-- /wp:group -->';
+    $outer_attrs = ['align' => 'full'];
+    if ($class) $outer_attrs['className'] = $class;
+    if ($background) $outer_attrs['style']['color']['background'] = $background;
+    if ($text) $outer_attrs['style']['color']['text'] = $text;
+    $inner_attrs = ['layout' => ['type' => 'constrained'], 'className' => 'cp-inner-container'];
+    $inner_html = '<!-- wp:group ' . wp_json_encode($inner_attrs) . ' -->\n<div class="wp-block-group cp-inner-container">' . $inner . '</div>\n<!-- /wp:group -->';
+    return '<!-- wp:group ' . wp_json_encode($outer_attrs) . ' -->\n<div class="wp-block-group alignfull' . ($class ? ' ' . esc_attr($class) : '') . '">' . $inner_html . '</div>\n<!-- /wp:group -->';
 }
 function cp_columns($inner, $class = '') {
     $attrs = ['align' => 'wide'];
@@ -47,7 +49,7 @@ function cp_gallery($names, $alt = 'Ceramic Pro Mangalore') {
     return $inner ? '<!-- wp:gallery {"columns":3,"linkTo":"none"} -->\n<figure class="wp-block-gallery has-nested-images columns-3 is-cropped cp-media-grid">' . $inner . '</figure>\n<!-- /wp:gallery -->' : '';
 }
 
-$source = json_decode(file_get_contents('/tmp/ceramic-pro-pages.json'), true);
+$source = json_decode(file_get_contents(__DIR__ . '/ceramic-pro-pages.json'), true);
 $pages = [];
 foreach ($source as $item) $pages[$item['slug']] = $item;
 
@@ -286,7 +288,7 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
 .cp-header-call .wp-block-button__link { background: #d62381; border-radius: 50px; color: #fff; padding: 12px 24px; text-transform: uppercase; font-size: 13px; }
 .cp-hero, .cp-section { width: 100vw; max-width: none !important; margin-left: calc(50% - 50vw) !important; }
 .cp-hero { position: relative; min-height: 100vh; display: block; overflow: hidden; text-align: left; padding: 120px 80px 60px; background: #161616; }
-.cp-hero > .wp-block-group__inner-container { position: relative; z-index: 2; width: 100%; min-height: calc(100vh - 180px); display: flex; flex-direction: column; justify-content: space-between; }
+.cp-hero > .cp-inner-container { position: relative; z-index: 2; width: 100%; min-height: calc(100vh - 180px); display: flex; flex-direction: column; justify-content: space-between; }
 .cp-hero > .wp-block-heading, .cp-hero > .wp-block-columns { position: relative; z-index: 3; }
 .cp-hero-video { position: absolute; inset: 0; z-index: 0; margin: 0 !important; max-width: none !important; }
 .cp-hero-video video { width: 100%; height: 100%; object-fit: cover; }
@@ -307,15 +309,15 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
 .cp-hero-buttons { display: flex; gap: 14px; flex-wrap: nowrap; }
 .cp-hero-buttons .wp-block-button__link, .cp-section .wp-block-button__link { background: #d62381; color: #fff; border-radius: 50px; padding: 13px 28px; text-transform: uppercase; font-size: 13px; }
 .cp-section { padding: 90px 80px; }
-.cp-section > .wp-block-group__inner-container { max-width: 1280px; margin: 0 auto; }
-.cp-section > .wp-block-group__inner-container > .wp-block-heading { color: #fff; font-size: clamp(2rem, 3vw, 3.3rem); font-weight: 400; line-height: 1.1; }
+.cp-section > .cp-inner-container { max-width: 1280px; margin: 0 auto; }
+.cp-section > .cp-inner-container > .wp-block-heading { color: #fff; font-size: clamp(2rem, 3vw, 3.3rem); font-weight: 400; line-height: 1.1; }
 .cp-about-studio { min-height: 420px; position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; overflow: hidden; background: linear-gradient(180deg,#202020 0%,#2b1c24 42%,#202020 100%) !important; }
 .cp-about-studio::before { content: ''; position: absolute; left: 50%; top: 50%; width: 60%; height: 400px; transform: translate(-50%, -50%); background: #d62381; opacity: .15; filter: blur(100px); pointer-events: none; }
 .cp-about-studio > * { position: relative; z-index: 1; }
 .cp-about-heading { display: flex; align-items: center; justify-content: center; gap: 28px; width: 100%; }
 .cp-about-icon { flex: 0 0 84px; width: 84px !important; height: 145px; margin: 0 !important; }
 .cp-about-icon img { display: block; width: 84px !important; height: 145px !important; max-width: none !important; object-fit: contain; }
-.cp-about-studio .wp-block-group__inner-container { max-width: 900px; }
+.cp-about-studio .cp-inner-container { max-width: 900px; }
 .cp-about-studio p { color: #ffffffcc; max-width: 800px; margin: 22px auto 30px; font-size: 18px; line-height: 1.55; }
 .cp-about-studio .wp-block-button { margin: 0 auto; }
 .cp-kavaca-columns, .cp-feature-columns { align-items: center; gap: 80px; }
@@ -333,7 +335,7 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
 .cp-service-media-stack .cp-service-image:nth-child(3) { animation-delay: 6s; }
 .cp-service-media-stack .cp-service-image:nth-child(4) { animation-delay: 9s; }
 .cp-service-media-stack .cp-service-image:nth-child(5) { animation-delay: 12s; }
-.cp-services > .wp-block-group__inner-container > .wp-block-heading { margin-bottom: 14px; }
+.cp-services > .cp-inner-container > .wp-block-heading { margin-bottom: 14px; }
 .cp-service-grid { gap: 0; margin-top: 35px; }
 .cp-service-grid .wp-block-column { border-top: 1px solid #ffffff26; padding: 25px 14px; min-width: 0; }
 .cp-service-index { color: #ffffff; font-size: 13px !important; }
@@ -345,8 +347,8 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
 .cp-feature-band-alt { background: #1a1a1a !important; }
 .cp-feature-band ul { color: #ffffffcc; columns: 2; line-height: 1.9; padding-left: 20px; }
 .cp-studio-features { text-align: center; }
-.cp-studio-features > .wp-block-group__inner-container { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
-.cp-studio-features > .wp-block-group__inner-container > .wp-block-heading, .cp-studio-features > .wp-block-group__inner-container > .wp-block-paragraph { grid-column: 1 / -1; }
+.cp-studio-features > .cp-inner-container { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.cp-studio-features > .cp-inner-container > .wp-block-heading, .cp-studio-features > .cp-inner-container > .wp-block-paragraph { grid-column: 1 / -1; }
 .cp-studio-features .wp-block-column { background: #161616; border: 1px solid #ffffff08; border-radius: 12px; padding: 30px 24px; }
 .cp-studio-icon { width: 48px; height: 48px; margin: 0 auto 18px !important; }
 .cp-studio-icon img { width: 100%; height: 100%; object-fit: contain; }
@@ -382,8 +384,8 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
 .cp-testimonial-media::after { content: '▶'; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 46px; height: 46px; display: grid; place-items: center; border: 1px solid #fff; border-radius: 50%; color: #fff; background: #d62381cc; font-size: 16px; }
 @keyframes cp-testimonial-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 @keyframes cp-service-fade { 0%, 15% { opacity: 1; } 20%, 100% { opacity: 0; } }
-@media (max-width: 900px) { .cp-hero { min-height: 820px; padding: 110px 24px 40px; } .cp-hero > .wp-block-group__inner-container { min-height: 720px; } .cp-section { padding: 70px 24px; } .wp-block-post-content > .wp-block-heading, .wp-block-post-content > .wp-block-paragraph, .wp-block-post-content > .wp-block-list { width: calc(100% - 48px); } .cp-hero-bottom { flex-direction: column; align-items: flex-start; gap: 35px; } .cp-hero-bottom .wp-block-column:last-child { min-width: 0; } .cp-badges { flex-wrap: wrap; gap: 14px; } .cp-badge { width: 75px; height: 60px; } .cp-kavaca-columns, .cp-feature-columns { gap: 35px; } .cp-service-grid .wp-block-column { flex-basis: 100% !important; } .cp-studio-features > .wp-block-group__inner-container { grid-template-columns: 1fr 1fr; } }
-@media (max-width: 520px) { .cp-hero-title { font-size: 2.4rem; } .cp-hero-logo { width: 190px; } .cp-hero-logo img { width: 190px; } .cp-feature-band ul { columns: 1; } .cp-studio-features > .wp-block-group__inner-container { grid-template-columns: 1fr; } }
+@media (max-width: 900px) { .cp-hero { min-height: 820px; padding: 110px 24px 40px; } .cp-hero > .cp-inner-container { min-height: 720px; } .cp-section { padding: 70px 24px; } .wp-block-post-content > .wp-block-heading, .wp-block-post-content > .wp-block-paragraph, .wp-block-post-content > .wp-block-list { width: calc(100% - 48px); } .cp-hero-bottom { flex-direction: column; align-items: flex-start; gap: 35px; } .cp-hero-bottom .wp-block-column:last-child { min-width: 0; } .cp-badges { flex-wrap: wrap; gap: 14px; } .cp-badge { width: 75px; height: 60px; } .cp-kavaca-columns, .cp-feature-columns { gap: 35px; } .cp-service-grid .wp-block-column { flex-basis: 100% !important; } .cp-studio-features > .cp-inner-container { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 520px) { .cp-hero-title { font-size: 2.4rem; } .cp-hero-logo { width: 190px; } .cp-hero-logo img { width: 190px; } .cp-feature-band ul { columns: 1; } .cp-studio-features > .cp-inner-container { grid-template-columns: 1fr; } }
 @media (max-width: 900px) { .cp-testimonials { overflow: hidden; } .cp-testimonial-grid { display: flex !important; flex-wrap: nowrap !important; width: max-content !important; animation: cp-testimonial-marquee 34s linear infinite; } .cp-testimonial-grid .wp-block-column { flex: 0 0 280px; } .cp-testimonials:hover .cp-testimonial-grid, .cp-testimonials:focus-within .cp-testimonial-grid { animation-play-state: paused; } }
 
 /* Source homepage geometry: native blocks retain editability while these classes
@@ -395,8 +397,8 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
     .cp-header { top: 32px; }
     .cp-header .wp-block-group { background: #16161666 !important; border-color: #ffffff1f; }
     .cp-hero { height: 720px; min-height: 720px; padding: 80px 40px 40px; }
-    .cp-hero > .wp-block-group__inner-container { min-height: 600px; max-width: none !important; position: static; }
-    .cp-hero > .wp-block-group__inner-container > * { max-width: none !important; margin-left: 0 !important; margin-right: 0 !important; }
+    .cp-hero > .cp-inner-container { min-height: 600px; max-width: none !important; position: static; }
+    .cp-hero > .cp-inner-container > * { max-width: none !important; margin-left: 0 !important; margin-right: 0 !important; }
     .cp-hero > .cp-hero-kicker, .cp-hero > .cp-hero-title, .cp-hero > .cp-hero-bottom { max-width: none !important; margin-left: 0 !important; margin-right: 0 !important; }
     .cp-hero > .cp-hero-bottom { width: 100% !important; }
     .cp-hero > .cp-hero-kicker { position: absolute; left: 40px; top: 132px; }
@@ -406,7 +408,7 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
     .cp-hero-title { font-size: 56px; max-width: 720px; }
     .cp-badges .wp-block-image { flex: 0 0 125px !important; max-width: 125px !important; }
     .cp-about-studio { height: 627px; min-height: 627px; padding: 60px 40px; background: linear-gradient(180deg,#202020 0%,#202020 10.87%,#2b1c24 25.75%,#472436 41.28%,#51273c 48.56%,#412232 56.49%,#2b1c24 65.41%,#202020 74.34%,#202020 91.83%) !important; }
-    .cp-about-studio > .wp-block-group__inner-container { max-width: 1120px; }
+    .cp-about-studio > .cp-inner-container { max-width: 1120px; }
     .cp-about-heading { display: flex; align-items: center; justify-content: center; gap: 28px; width: 100%; }
     .cp-about-heading .wp-block-heading { width: 316px; margin: 0; font-size: 26px !important; line-height: 36px !important; letter-spacing: 3px; white-space: normal; }
     .cp-about-icon { flex: 0 0 48px; width: 48px !important; height: 145px; margin: 0 !important; }
@@ -484,7 +486,7 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
     .cp-feature-band-alt .cp-feature-columns li:nth-child(6) { right: 4%; top: 380px; }
     .cp-feature-band ul { font-size: 15px; line-height: 1.55; }
     .cp-studio-features { height: 634px; min-height: 634px; padding: 55px 40px; }
-    .cp-studio-features > .wp-block-group__inner-container { grid-template-columns: repeat(4, 1fr); align-content: center; }
+    .cp-studio-features > .cp-inner-container { grid-template-columns: repeat(4, 1fr); align-content: center; }
     .cp-studio-features .wp-block-column { padding: 24px 18px; min-height: 220px; }
     .cp-testimonials { height: 706px; min-height: 706px; padding: 55px 40px; }
     .cp-testimonial-grid { display: grid !important; grid-template-columns: repeat(4, 1fr); gap: 16px; }
@@ -498,8 +500,8 @@ body, .wp-site-blocks { font-family: Geist, Arial, Helvetica, sans-serif; -webki
     .cp-testimonial-media img { height: 220px; }
     .cp-testimonials .wp-block-heading { font-size: 40px !important; }
     .cp-gallery { height: 829px; min-height: 829px; padding: 55px 40px; }
-    .cp-gallery > .wp-block-group__inner-container { position: relative; }
-    .cp-gallery > .wp-block-group__inner-container > .wp-block-button { position: absolute; right: 0; top: 0; }
+    .cp-gallery > .cp-inner-container { position: relative; }
+    .cp-gallery > .cp-inner-container > .wp-block-button { position: absolute; right: 0; top: 0; }
     .cp-portfolio-mosaic { display: grid !important; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 14px; height: 650px; margin-top: 40px; }
     .cp-portfolio-mosaic .wp-block-image { width: auto !important; height: auto !important; margin: 0 !important; }
     .cp-portfolio-mosaic .wp-block-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; }
