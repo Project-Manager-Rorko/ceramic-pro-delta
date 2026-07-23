@@ -1,0 +1,44 @@
+﻿<style>
+.ceramic-pro-contact-page{background:#0f1117;color:#fff;padding:70px 0}
+.ceramic-pro-contact-page *{box-sizing:border-box}
+.ceramic-pro-contact-page .cu-wrap{width:min(1200px,100% - 40px);margin:auto}
+.ceramic-pro-contact-page .cu-title{text-align:center;margin-bottom:26px}
+.ceramic-pro-contact-page .cu-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.ceramic-pro-contact-page .cu-card{background:#171b24;border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:22px}
+.ceramic-pro-contact-page .cu-list{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.ceramic-pro-contact-page .cu-form{display:grid;gap:12px}
+.ceramic-pro-contact-page input,.ceramic-pro-contact-page textarea{width:100%;padding:12px 14px;border-radius:10px;border:1px solid rgba(255,255,255,.16);background:#10151e;color:#fff}
+.ceramic-pro-contact-page textarea{min-height:130px}
+.ceramic-pro-contact-page button{padding:12px 18px;border:0;border-radius:10px;background:#eb2f8f;color:#fff;cursor:pointer}
+.ceramic-pro-contact-page .cu-map{margin-top:20px}
+.ceramic-pro-contact-page .cu-map img{width:100%;border-radius:14px;aspect-ratio:16/7;object-fit:cover}
+@media (max-width:1024px){.ceramic-pro-contact-page .cu-grid{grid-template-columns:1fr}}
+@media (max-width:767px){.ceramic-pro-contact-page{padding:54px 0}.ceramic-pro-contact-page .cu-wrap{width:min(100% - 24px,1200px)}.ceramic-pro-contact-page .cu-card{padding:16px}}
+</style>
+<section class="ceramic-pro-contact-page">
+  <div class="cu-wrap">
+    <div class="cu-title"><h1>Contact Us</h1><p>Let's discuss your project and detailing requirements.</p></div>
+    <div class="cu-grid">
+      <div class="cu-card">
+        <h3>Get In Touch</h3>
+        <ul class="cu-list">
+          <li><strong>Phone:</strong> +91 63642 68555</li>
+          <li><strong>Email:</strong> info@example.com</li>
+          <li><strong>Address:</strong> #901 Delta House, Kulur ferry road, Mangalore</li>
+          <li><strong>Working Hours:</strong> Mon - Sat, 9:00 AM - 7:00 PM</li>
+        </ul>
+      </div>
+      <div class="cu-card">
+        <h3>Send A Message</h3>
+        <form class="cu-form">
+          <input type="text" placeholder="Your Name" />
+          <input type="email" placeholder="Email Address" />
+          <input type="tel" placeholder="Phone Number" />
+          <textarea placeholder="Your Message"></textarea>
+          <button type="button">Submit</button>
+        </form>
+      </div>
+    </div>
+    <div class="cu-map"><img src="/wp-content/uploads/2026/05/dummy-map.jpg" alt="Map placeholder"></div>
+  </div>
+</section>

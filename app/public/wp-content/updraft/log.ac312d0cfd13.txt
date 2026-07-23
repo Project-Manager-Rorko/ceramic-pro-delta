@@ -1,0 +1,317 @@
+0000.001 (0) Opened log file at time: Thu, 23 Jul 2026 05:28:41 +0000 on http://ceramic-pro-new.local
+0000.015 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.4 WP: 7.0.2 PHP: 8.2.29 (cgi-fcgi, Windows NT RORKO_DEV 10.0 build 26200 (Windows 11) AMD64) MySQL: 8.4.0 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5.2M | 6M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.023 (0) Free space on disk containing Updraft's temporary directory: 286033.2 MB
+0000.083 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.301 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.347 (0) Set semaphore last lock (fd) time to 2026-07-23 05:28:41
+0000.354 (0) Semaphore lock (fd) complete
+0000.402 (0) Backup run: resumption=0, nonce=ac312d0cfd13, file_nonce=ac312d0cfd13 begun at=1784784521 (1s ago), job type=backup
+0000.427 (0) Scheduling a resumption (1) after 452 seconds (1784784974) in case this run gets aborted
+0000.564 (0) Checking if we have a zip executable available
+0000.582 (0) Creation of backups of directories: beginning
+0000.613 (0) Beginning creation of dump of plugins (split every: 25 MB)
+0005.823 (0) Total entities for the zip file: 1066 directories, 7524 files (0 skipped as non-modified), 74 MB
+0005.846 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0006.037 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 100 files added (on-disk size: 193.7 KB)
+0006.168 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 200 files added (on-disk size: 193.7 KB)
+0006.369 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 300 files added (on-disk size: 193.7 KB)
+0006.498 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 400 files added (on-disk size: 193.7 KB)
+0006.635 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 500 files added (on-disk size: 193.7 KB)
+0006.767 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 600 files added (on-disk size: 193.7 KB)
+0006.864 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 700 files added (on-disk size: 193.7 KB)
+0006.969 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 800 files added (on-disk size: 193.7 KB)
+0007.103 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 900 files added (on-disk size: 193.7 KB)
+0007.259 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1000 files added (on-disk size: 193.7 KB)
+0007.273 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.4 MB, 7524 files batched, 1001 (1002) added so far); re-opening (prior size: 193.7 KB)
+0070.563 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1100 files added (on-disk size: 3469.4 KB)
+0070.641 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1200 files added (on-disk size: 3469.4 KB)
+0070.720 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1300 files added (on-disk size: 3469.4 KB)
+0070.790 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1400 files added (on-disk size: 3469.4 KB)
+0070.862 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1500 files added (on-disk size: 3469.4 KB)
+0070.929 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1600 files added (on-disk size: 3469.4 KB)
+0070.994 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1700 files added (on-disk size: 3469.4 KB)
+0071.066 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1800 files added (on-disk size: 3469.4 KB)
+0071.136 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 1900 files added (on-disk size: 3469.4 KB)
+0071.200 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2000 files added (on-disk size: 3469.4 KB)
+0071.210 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (0.7 MB, 7524 files batched, 1001 (2003) added so far); re-opening (prior size: 3469.4 KB)
+0085.760 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2100 files added (on-disk size: 4079 KB)
+0085.827 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2200 files added (on-disk size: 4079 KB)
+0085.896 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2300 files added (on-disk size: 4079 KB)
+0085.964 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2400 files added (on-disk size: 4079 KB)
+0086.032 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2500 files added (on-disk size: 4079 KB)
+0086.095 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2600 files added (on-disk size: 4079 KB)
+0086.164 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2700 files added (on-disk size: 4079 KB)
+0086.232 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2800 files added (on-disk size: 4079 KB)
+0086.299 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 2900 files added (on-disk size: 4079 KB)
+0086.363 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3000 files added (on-disk size: 4079 KB)
+0086.380 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (0.8 MB, 7524 files batched, 1001 (3004) added so far); re-opening (prior size: 4079 KB)
+0100.426 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3100 files added (on-disk size: 4737.5 KB)
+0100.494 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3200 files added (on-disk size: 4737.5 KB)
+0100.563 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3300 files added (on-disk size: 4737.5 KB)
+0100.629 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3400 files added (on-disk size: 4737.5 KB)
+0100.695 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3500 files added (on-disk size: 4737.5 KB)
+0100.770 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3600 files added (on-disk size: 4737.5 KB)
+0100.838 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.tmp: 3700 files added (on-disk size: 4737.5 KB)
+0100.872 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (22.5 MB, 734 (3738) files added so far); last ratio: 0.8235; re-opening (prior size: 4737.5 KB)
+0117.096 (0) Zip size is at/near split limit (11 MB / 25 MB) - bumping index (from: 0)
+0117.277 (0) Creating zip file manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.list-temp.tmp)
+0117.317 (0) Successfully created zip file manifest (size: 256418)
+0117.338 (0) Created plugins zip (0) - 11259 KB in 116.5 s (96.7 KB/s) (checksums: sha1: b2767d60e21d612e27a5a83a8d0aafcf90e5c5f1, sha256: b03bf96fdcad240f81389c64c7adc6101131b747a386b517ec76710eeb851d6a)
+0117.394 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0117.403 (0) No remote despatch: user chose no remote backup service
+0117.410 (0) Recording as successfully uploaded: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip
+0117.427 (0) Deleting zip manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip.list.tmp)
+0117.439 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0117.507 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0117.578 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0117.650 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0117.725 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0117.802 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0117.877 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0117.952 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0118.029 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0118.103 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0118.176 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0118.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.3 MB, 7524 files batched, 1001 (4739) added so far); re-opening (prior size: 0 KB)
+0164.764 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4800 files added (on-disk size: 2248 KB)
+0165.076 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 4900 files added (on-disk size: 2248 KB)
+0165.161 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5000 files added (on-disk size: 2248 KB)
+0165.753 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5100 files added (on-disk size: 2248 KB)
+0165.912 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5200 files added (on-disk size: 2248 KB)
+0166.050 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5300 files added (on-disk size: 2248 KB)
+0166.343 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5400 files added (on-disk size: 2248 KB)
+0167.178 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5500 files added (on-disk size: 2248 KB)
+0167.269 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5600 files added (on-disk size: 2248 KB)
+0167.381 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.6 MB, 936 (5675) files added so far); re-opening (prior size: 2248 KB)
+0194.756 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5700 files added (on-disk size: 5704.9 KB)
+0194.841 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5800 files added (on-disk size: 5704.9 KB)
+0194.914 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 5900 files added (on-disk size: 5704.9 KB)
+0194.988 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6000 files added (on-disk size: 5704.9 KB)
+0195.066 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6100 files added (on-disk size: 5704.9 KB)
+0195.279 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6200 files added (on-disk size: 5704.9 KB)
+0195.351 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6300 files added (on-disk size: 5704.9 KB)
+0195.432 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6400 files added (on-disk size: 5704.9 KB)
+0195.509 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6500 files added (on-disk size: 5704.9 KB)
+0195.731 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6600 files added (on-disk size: 5704.9 KB)
+0195.786 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.2 MB, 7524 files batched, 1001 (6676) added so far); re-opening (prior size: 5704.9 KB)
+0225.023 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6700 files added (on-disk size: 8145.6 KB)
+0225.093 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6800 files added (on-disk size: 8145.6 KB)
+0225.209 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 6900 files added (on-disk size: 8145.6 KB)
+0225.282 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 7000 files added (on-disk size: 8145.6 KB)
+0225.569 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 7100 files added (on-disk size: 8145.6 KB)
+0225.637 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 7200 files added (on-disk size: 8145.6 KB)
+0225.745 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 7300 files added (on-disk size: 8145.6 KB)
+0225.814 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 7400 files added (on-disk size: 8145.6 KB)
+0225.894 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.tmp: 7500 files added (on-disk size: 8145.6 KB)
+0245.895 (0) Creating zip file manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.list-temp.tmp)
+0245.931 (0) Successfully created zip file manifest (size: 328470)
+0246.188 (0) Created plugins zip (1) - 14175.8 KB in 128.8 s (110.1 KB/s) (sha1: 0f1a8119cb6523e3374430bd1174afa897f7bd7f, sha256: 719f3e3e88971b80fcb610cb8f44017d0ea5d9e3627cab5313c259e02f1eb115)
+0246.218 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0246.229 (0) No remote despatch: user chose no remote backup service
+0246.240 (0) Recording as successfully uploaded: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip
+0246.264 (0) Deleting zip manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip.list.tmp)
+0246.273 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0246.360 (0) Beginning creation of dump of themes (split every: 25 MB)
+0246.643 (0) Total entities for the zip file: 47 directories, 420 files (0 skipped as non-modified), 13.2 MB
+0246.742 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0246.824 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0246.967 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0247.046 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0260.993 (0) Creating zip file manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip.list-temp.tmp)
+0261.009 (0) Successfully created zip file manifest (size: 29671)
+0261.411 (0) Created themes zip (0) - 10965.8 KB in 14.8 s (740.9 KB/s) (sha1: 2f7afec1bc915739f4353d205975369c2e2782ef, sha256: 4f691934bcd9eb783543ce6a207126ad0dead77ccd8cbbb0abfdf40905ef12cb)
+0261.449 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0261.457 (0) No remote despatch: user chose no remote backup service
+0261.468 (0) Recording as successfully uploaded: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip
+0261.490 (0) Deleting zip manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip.list.tmp)
+0261.503 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0261.538 (0) Exclusion option setting (uploads): 
+0261.546 (0) Looking for candidates to backup in: C:\Users\shanm\Local Sites\ceramic-pro-new\app\public/wp-content/uploads
+0261.734 (0) finding files: 2026: adding to list (1)
+0261.745 (0) finding files: dynamic-mobmenu.css: adding to list (2)
+0261.754 (0) finding files: wp-file-manager-pro: adding to list (3)
+0261.762 (0) finding files: wpcf7_uploads: adding to list (4)
+0261.769 (0) finding files: wpseo-redirects: adding to list (5)
+0261.779 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0262.132 (0) Total entities for the zip file: 8 directories, 665 files (0 skipped as non-modified), 24.5 MB
+0262.466 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0262.547 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0262.619 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0262.689 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0262.766 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0262.837 (0) Zip: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0272.396 (0) Creating zip file manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.list-temp.tmp)
+0272.410 (0) Successfully created zip file manifest (size: 42008)
+0272.682 (0) Created uploads zip (0) - 21376.4 KB in 10.9 s (1964.9 KB/s) (sha1: 7148f95cf0965d5742364d4613dad292671fbe69, sha256: 92dd4c8a8cd835110d4d747ebf861144aa908e9ae5d217dfb2b119313c4e4b44)
+0272.716 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0272.728 (0) No remote despatch: user chose no remote backup service
+0272.737 (0) Recording as successfully uploaded: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip
+0272.753 (0) Deleting zip manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip.list.tmp)
+0272.761 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0272.874 (0) No backup of mu-plugins: excluded by user's options
+0272.898 (0) Beginning backup of other directories found in the content directory (index: 0)
+0272.905 (0) Exclusion option setting (others): 
+0272.913 (0) Looking for candidates to backup in: C:\Users\shanm\Local Sites\ceramic-pro-new\app\public/wp-content
+0272.921 (0) finding files: .agents: adding to list (1)
+0272.931 (0) finding files: .codex: adding to list (2)
+0272.942 (0) finding files: .git: adding to list (3)
+0272.967 (0) finding files: contact-us-page.html: adding to list (4)
+0272.976 (0) finding files: homepage-default-editorss.html: adding to list (5)
+0272.984 (0) finding files: index.php: adding to list (6)
+0272.994 (0) finding files: litespeed: adding to list (7)
+0273.006 (0) finding files: page-about.html: adding to list (8)
+0273.017 (0) finding files: page-contact.html: adding to list (9)
+0273.027 (0) finding files: page-homess.html: adding to list (10)
+0273.034 (0) finding files: page-leadership.html: adding to list (11)
+0273.041 (0) finding files: page-products.html: adding to list (12)
+0273.049 (0) finding files: page-services.html: adding to list (13)
+0273.057 (0) finding files: plugins: skipping: this is the plugins directory
+0273.067 (0) finding files: themes: skipping: this is the themes directory
+0273.078 (0) finding files: updraft: skipping: this is the updraft directory
+0273.089 (0) finding files: upgrade: adding to list (14)
+0273.177 (0) finding files: uploads: skipping: this is the uploads directory
+0273.184 (0) finding files: wp-block-backups: adding to list (15)
+0273.237 (0) Total entities for the zip file: 10 directories, 27 files (0 skipped as non-modified), 0.2 MB
+0273.770 (0) Creating zip file manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-others.zip.list-temp.tmp)
+0273.780 (0) Successfully created zip file manifest (size: 1386)
+0273.825 (0) Created others zip (0) - 46.4 KB in 0.6 s (74.9 KB/s) (sha1: a33e33ee1eb16292b50044c5c7ec71546a78def1, sha256: 42e2251607953bfe77e0f7b652785bac1dc4f2d0c283f31b2bf7a67e9f7e16a8)
+0273.944 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0273.953 (0) No remote despatch: user chose no remote backup service
+0273.963 (0) Recording as successfully uploaded: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-others.zip
+0273.989 (0) Deleting zip manifest (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-others.zip.list.tmp)
+0273.999 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0274.153 (0) Saving backup status to database (elements: 9)
+0274.176 (0) Beginning creation of database dump (WordPress DB)
+0274.186 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0274.297 (0) Table wp_options: Total expected rows (via COUNT): 516
+0274.377 (0) Table wp_options: Rows added in this batch (next record: 36296): 511 (uncompressed bytes in this segment=1123248) in 0.12 seconds
+0274.680 (0) Table wp_options: finishing file(s) (2, 261.5 KB)
+0274.705 (0) Table wp_users: Total expected rows (via COUNT): 1
+0274.713 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0274.735 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1562) in 0.03 seconds
+0274.966 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0275.029 (0) Table wp_usermeta: Total expected rows (via COUNT): 31
+0275.046 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0275.280 (0) Table wp_usermeta: Rows added in this batch (next record: 34): 31 (uncompressed bytes in this segment=5797) in 0.29 seconds
+0275.329 (0) Table wp_usermeta: finishing file(s) (2, 2.4 KB)
+0275.419 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0275.441 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=721) in 0.09 seconds
+0275.761 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0275.785 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0275.806 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1878) in 0.03 seconds
+0275.848 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0275.891 (0) Table wp_links: Total expected rows (via COUNT): 0
+0275.899 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1496) in 0.03 seconds
+0275.939 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0276.176 (0) Table wp_postmeta: Total expected rows (approximate): 1079
+0276.211 (0) Table wp_postmeta: Rows added in this batch (next record: 1381): 1079 (uncompressed bytes in this segment=215880) in 0.05 seconds
+0276.299 (0) Table wp_postmeta: finishing file(s) (2, 22.1 KB)
+0276.512 (0) Table wp_posts: Total expected rows (via COUNT): 700
+0276.675 (0) Table wp_posts: Rows added in this batch (next record: 757): 700 (uncompressed bytes in this segment=5752907) in 0.35 seconds
+0276.800 (0) Table wp_posts: finishing file(s) (2, 273.9 KB)
+0276.824 (0) Table wp_term_relationships: Total expected rows (approximate): 35
+0276.846 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 35 (uncompressed bytes in this segment=1161) in 0.03 seconds
+0276.882 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0276.918 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 4
+0276.928 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0276.946 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1050) in 0.04 seconds
+0276.994 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0277.219 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0277.236 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.08 seconds
+0277.289 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0277.313 (0) Table wp_terms: Total expected rows (via COUNT): 4
+0277.325 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0277.483 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=905) in 0.17 seconds
+0277.520 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0277.571 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 0
+0277.594 (0) Table wp_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=679) in 0.05 seconds
+0277.629 (0) Table wp_litespeed_url: finishing file(s) (2, 0.4 KB)
+0277.676 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 0
+0277.687 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1090) in 0.03 seconds
+0277.841 (0) Table wp_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0277.891 (0) Table wp_wpfm_backup: Total expected rows (via COUNT): 0
+0277.902 (0) Table wp_wpfm_backup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=554) in 0.04 seconds
+0277.933 (0) Table wp_wpfm_backup: finishing file(s) (2, 0.3 KB)
+0277.979 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 41
+0277.986 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0278.137 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 46): 41 (uncompressed bytes in this segment=37989) in 0.18 seconds
+0278.191 (0) Table wp_yoast_indexable: finishing file(s) (2, 6.4 KB)
+0278.220 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 37
+0278.260 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 37 (uncompressed bytes in this segment=1369) in 0.04 seconds
+0278.438 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0278.489 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 27
+0278.499 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0278.519 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 27): 27 (uncompressed bytes in this segment=1317) in 0.05 seconds
+0278.557 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0278.602 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0278.619 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=864) in 0.04 seconds
+0278.655 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0278.700 (0) Table wp_yoast_prominent_words: Total expected rows (via COUNT): 0
+0278.708 (0) Table wp_yoast_prominent_words: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=670) in 0.03 seconds
+0278.857 (0) Table wp_yoast_prominent_words: finishing file(s) (2, 0.4 KB)
+0279.013 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 161
+0279.020 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0279.090 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 309): 161 (uncompressed bytes in this segment=24758) in 0.08 seconds
+0279.146 (0) Table wp_yoast_seo_links: finishing file(s) (2, 3.5 KB)
+0279.163 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_options.table.tmpr36297.gz (1/21/fopen): adding to final database dump
+0279.272 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_options.table.gz (2/21/fopen): adding to final database dump
+0279.281 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_users.table.tmpr2.gz (3/21/fopen): adding to final database dump
+0279.291 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_users.table.gz (4/21/fopen): adding to final database dump
+0279.299 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_usermeta.table.tmpr35.gz (5/21/fopen): adding to final database dump
+0279.313 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_usermeta.table.gz (6/21/fopen): adding to final database dump
+0279.324 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_commentmeta.table.tmpr0.gz (7/21/fopen): adding to final database dump
+0279.336 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_commentmeta.table.gz (8/21/fopen): adding to final database dump
+0279.344 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_comments.table.tmpr0.gz (9/21/fopen): adding to final database dump
+0279.353 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_comments.table.gz (10/21/fopen): adding to final database dump
+0279.362 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_links.table.tmpr0.gz (11/21/fopen): adding to final database dump
+0279.373 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_links.table.gz (12/21/fopen): adding to final database dump
+0279.383 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_postmeta.table.tmpr1382.gz (13/21/fopen): adding to final database dump
+0279.395 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_postmeta.table.gz (14/21/fopen): adding to final database dump
+0279.406 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_posts.table.tmpr758.gz (15/21/fopen): adding to final database dump
+0279.568 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_posts.table.gz (16/21/fopen): adding to final database dump
+0279.576 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_term_relationships.table.tmpr100001.gz (17/21/fopen): adding to final database dump
+0279.584 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_term_relationships.table.gz (18/21/fopen): adding to final database dump
+0279.592 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_term_taxonomy.table.tmpr5.gz (19/21/fopen): adding to final database dump
+0279.606 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_term_taxonomy.table.gz (20/21/fopen): adding to final database dump
+0279.617 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_termmeta.table.tmpr0.gz (21/21/fopen): adding to final database dump
+0279.627 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_termmeta.table.gz (22/21/fopen): adding to final database dump
+0279.636 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_terms.table.tmpr5.gz (23/21/fopen): adding to final database dump
+0279.643 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_terms.table.gz (24/21/fopen): adding to final database dump
+0279.652 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_litespeed_url.table.tmpr0.gz (25/21/fopen): adding to final database dump
+0279.661 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_litespeed_url.table.gz (26/21/fopen): adding to final database dump
+0279.672 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_litespeed_url_file.table.tmpr0.gz (27/21/fopen): adding to final database dump
+0279.683 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_litespeed_url_file.table.gz (28/21/fopen): adding to final database dump
+0279.694 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_wpfm_backup.table.tmpr0.gz (29/21/fopen): adding to final database dump
+0279.704 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_wpfm_backup.table.gz (30/21/fopen): adding to final database dump
+0279.712 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_indexable.table.tmpr47.gz (31/21/fopen): adding to final database dump
+0279.720 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_indexable.table.gz (32/21/fopen): adding to final database dump
+0279.729 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (33/21/fopen): adding to final database dump
+0279.738 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_indexable_hierarchy.table.gz (34/21/fopen): adding to final database dump
+0279.749 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_migrations.table.tmpr28.gz (35/21/fopen): adding to final database dump
+0279.760 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_migrations.table.gz (36/21/fopen): adding to final database dump
+0279.772 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_primary_term.table.tmpr0.gz (37/21/fopen): adding to final database dump
+0279.938 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_primary_term.table.gz (38/21/fopen): adding to final database dump
+0279.946 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_prominent_words.table.tmpr0.gz (39/21/fopen): adding to final database dump
+0279.954 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_prominent_words.table.gz (40/21/fopen): adding to final database dump
+0279.961 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_seo_links.table.tmpr310.gz (41/21/fopen): adding to final database dump
+0279.972 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db-table-wp_yoast_seo_links.table.gz (42/21/fopen): adding to final database dump
+0280.025 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db.gz: finished writing out complete database file (577 KB)
+0280.114 (0) Total database tables backed up: 21 (backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db.gz, size: 590952, sha1: e9664210b6fc3a41919f8198638595896d8da512, sha256: 391b96f50f389344759de53ab601386c19163bd71506a0ce86d18da28c0b6035)
+0280.167 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins.zip: plugins: This file has already been successfully processed
+0280.174 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-plugins2.zip: plugins: This file has already been successfully processed
+0280.182 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-themes.zip: themes: This file has already been successfully processed
+0280.189 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-uploads.zip: uploads: This file has already been successfully processed
+0280.199 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-others.zip: others: This file has already been successfully processed
+0280.211 (0) backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db.gz: db: This file has not yet been successfully uploaded: will queue
+0280.222 (0) Saving backup history. Total backup size: 57 MB
+0280.268 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0280.298 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0280.305 (0) No remote despatch: user chose no remote backup service
+0280.312 (0) Recording as successfully uploaded: backup_2026-07-23-0528_ceramic_pro_ac312d0cfd13-db.gz
+0280.334 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0280.344 (0) Resume backup (ac312d0cfd13, 0): finish run
+0280.372 (0) Decremented the semaphore (fd) by 1
+0280.385 (0) Semaphore (fd) unlocked
+0280.395 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0280.429 (0) No email will/can be sent - the user has not configured an email address.
+0280.438 (0) The backup succeeded and is now complete

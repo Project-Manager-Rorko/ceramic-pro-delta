@@ -1,0 +1,113 @@
+﻿<!-- wp:group {"className":"cpds"} -->
+<div class="wp-block-group cpds">
+<!-- wp:group {"className":"hero"} -->
+<div class="wp-block-group hero">
+<!-- wp:group {"className":"w"} -->
+<div class="wp-block-group w">
+<!-- wp:heading {"level":1,"className":"h1"} -->
+<h1>Blogs</h1>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"sec"} -->
+<div class="wp-block-group sec">
+<!-- wp:group {"className":"w g3"} -->
+<div class="wp-block-group w g3">
+<!-- wp:group {"className":"blog-card"} -->
+<div class="wp-block-group blog-card">
+<!-- wp:image {"url":"/wp-content/uploads/2026/05/blog-1.jpg","alt":"","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="/wp-content/uploads/2026/05/blog-1.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"date"} -->
+<div class="wp-block-group date">
+<!-- wp:paragraph -->
+<p>4 May 2026</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":4} -->
+<h4>What Is Ceramic Pro Shift Color PPF?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"p"} -->
+<p>Features, benefits, and installation guide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"url":"/blog"} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/blog">Continue Reading</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"blog-card"} -->
+<div class="wp-block-group blog-card">
+<!-- wp:image {"url":"/wp-content/uploads/2026/05/blog-2.jpg","alt":"","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="/wp-content/uploads/2026/05/blog-2.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"date"} -->
+<div class="wp-block-group date">
+<!-- wp:paragraph -->
+<p>4 May 2026</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Matte Finish PPF vs Gloss PPF</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"p"} -->
+<p>Which one should you choose?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"url":"/blog"} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/blog">Continue Reading</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"blog-card"} -->
+<div class="wp-block-group blog-card">
+<!-- wp:image {"url":"/wp-content/uploads/2026/05/blog-3.jpg","alt":"","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="/wp-content/uploads/2026/05/blog-3.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"date"} -->
+<div class="wp-block-group date">
+<!-- wp:paragraph -->
+<p>4 May 2026</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Best Time To Apply Ceramic Coating</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"p"} -->
+<p>Know the right time and conditions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"url":"/blog"} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/blog">Continue Reading</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->

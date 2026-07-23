@@ -1,0 +1,91 @@
+﻿<!-- wp:group {"className":"cp-page"} -->
+<div class="wp-block-group cp-page">
+<!-- wp:group {"className":"cp-hero"} -->
+<div class="wp-block-group cp-hero">
+<!-- wp:group {"className":"cp-wrap"} -->
+<div class="wp-block-group cp-wrap">
+<!-- wp:paragraph {"className":"cp-eyebrow"} -->
+<p>Leadership</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"cp-title"} -->
+<h1>Leadership Team</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"cp-text"} -->
+<p>Experienced team driving quality, innovation, and customer trust.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-section"} -->
+<div class="wp-block-group cp-section">
+<!-- wp:group {"className":"cp-wrap cp-grid-3"} -->
+<div class="wp-block-group cp-wrap cp-grid-3">
+<!-- wp:group {"className":"cp-card"} -->
+<div class="wp-block-group cp-card">
+<!-- wp:image {"url":"/wp-content/uploads/2026/05/leader-1.jpg","alt":"","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="/wp-content/uploads/2026/05/leader-1.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-panel"} -->
+<div class="wp-block-group cp-panel">
+<!-- wp:heading {"level":3,"className":"cp-subtitle"} -->
+<h3>Leader One</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"cp-text"} -->
+<p>Founder</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-card"} -->
+<div class="wp-block-group cp-card">
+<!-- wp:image {"url":"/wp-content/uploads/2026/05/leader-2.jpg","alt":"","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="/wp-content/uploads/2026/05/leader-2.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-panel"} -->
+<div class="wp-block-group cp-panel">
+<!-- wp:heading {"level":3,"className":"cp-subtitle"} -->
+<h3>Leader Two</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"cp-text"} -->
+<p>Operations</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-card"} -->
+<div class="wp-block-group cp-card">
+<!-- wp:image {"url":"/wp-content/uploads/2026/05/leader-3.jpg","alt":"","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="/wp-content/uploads/2026/05/leader-3.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-panel"} -->
+<div class="wp-block-group cp-panel">
+<!-- wp:heading {"level":3,"className":"cp-subtitle"} -->
+<h3>Leader Three</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"cp-text"} -->
+<p>Experience</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->

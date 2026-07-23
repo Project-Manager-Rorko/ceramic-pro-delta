@@ -1,0 +1,415 @@
+﻿<!-- wp:group {"className":"cp-hero-section furnuture-bg all-heading pdng-lt-rt pdng-tp bann-padd-btm"} -->
+<div class="wp-block-group cp-hero-section furnuture-bg all-heading pdng-lt-rt pdng-tp bann-padd-btm">
+<!-- wp:group {"className":"cp-hero-container"} -->
+<div class="wp-block-group cp-hero-container">
+<!-- wp:group {"className":"cp-hero-grid"} -->
+<div class="wp-block-group cp-hero-grid">
+<!-- wp:group {"className":"cp-hero-left"} -->
+<div class="wp-block-group cp-hero-left">
+<!-- wp:heading {"level":1} -->
+<h1>Furniture Coating for Long-Lasting Surface Protection</h1>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-hero-right"} -->
+<div class="wp-block-group cp-hero-right">
+<!-- wp:paragraph -->
+<p>Transform your furniture into a refined and well-protected centerpiece with our professional Furniture Coating service. Designed for high-value furniture surfaces, our specialized coatings enhance appearance while providing long-lasting protection against stains, scratches, wear, and daily usage.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-about-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-about-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-about-container"} -->
+<div class="wp-block-group cp-about-container">
+<!-- wp:group {"className":"cp-about-left"} -->
+<div class="wp-block-group cp-about-left">
+<!-- wp:heading {"level":2} -->
+<h2>What Is Furniture Coating?</h2>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-about-right"} -->
+<div class="wp-block-group cp-about-right">
+<!-- wp:heading {"level":5,"className":"cp-text-lead"} -->
+<h5>Furniture Coating is a specialized surface protection process designed to preserve and enhance premium furniture materials. Using advanced coating technology inspired by high-performance surface protection systems, the coating creates a durable protective layer over the furniture surface while maintaining its original texture and finish.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:group {"className":"cp-text-columns new-sec"} -->
+<div class="wp-block-group cp-text-columns new-sec">
+<!-- wp:paragraph -->
+<p>Furniture Coating by Ceramic Pro helps protect furniture from stains, scratches, dirt buildup, moisture exposure, and everyday wear while improving overall appearance and surface durability. The process enhances the beauty of your furniture while helping it remain functional, cleaner, and visually refined over time.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-shine-showcase-section fur-new-bg pdng-lt-rt bann-padd-btm pdng-tp-new-sec all-heading"} -->
+<div class="wp-block-group cp-shine-showcase-section fur-new-bg pdng-lt-rt bann-padd-btm pdng-tp-new-sec all-heading">
+<!-- wp:group {"className":"shine-header-block"} -->
+<div class="wp-block-group shine-header-block">
+<!-- wp:heading {"level":2} -->
+<h2>More Than Just Surface Protection.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Furniture Coating actively protects your furniture while enhancing finish quality, durability, and long-term appearance. The result is a cleaner, smoother, and more elegant surface.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-mobile-media-box mobile-only"} -->
+<div class="wp-block-group shine-mobile-media-box mobile-only">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/Furniture-Coating-3rdsec.webp","alt":"Automotive Protection Processing","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/Furniture-Coating-3rdsec.webp" alt="Automotive Protection Processing" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-features-matrix-row"} -->
+<div class="wp-block-group shine-features-matrix-row">
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">01</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Protects Against Stains, Spills And Daily Damage</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">02</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Reduces scratches &amp; surface wear</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">03</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Enhances finish clarity &amp; appearance</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">04</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Protects wood, metal, glass &amp; premium materials</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-why-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-why-container"} -->
+<div class="wp-block-group cp-why-container">
+<!-- wp:group {"className":"cp-why-header"} -->
+<div class="wp-block-group cp-why-header">
+<!-- wp:group {"className":"head-new-sec"} -->
+<div class="wp-block-group head-new-sec">
+<!-- wp:heading {"level":2} -->
+<h2>Why Choose Composite Protection Film (CPF)</h2>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"head-new-sec"} -->
+<div class="wp-block-group head-new-sec">
+<!-- wp:paragraph -->
+<p>The evolution of modern paint protection technology. Composite Protection Film offers a more advanced solution than conventional paint protection systems by combining multiple protection technologies into one integrated surface.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-grid"} -->
+<div class="wp-block-group cp-why-grid">
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Premium Protection</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Safeguards high-value furniture surfaces</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Finish Preservation</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Maintains original look and appearance</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Stain Resistance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Protects from dirt, stains, daily wear</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Enhanced Elegance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Improves clarity and visual appeal</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-faq-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-faq-container"} -->
+<div class="wp-block-group cp-faq-container">
+<!-- wp:group {"className":"cp-faq-header"} -->
+<div class="wp-block-group cp-faq-header">
+<!-- wp:heading {"level":2} -->
+<h2>Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Everything you need to know about our Furniture Coating process and maintenance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-list"} -->
+<div class="wp-block-group cp-faq-list">
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>What does Furniture Coating protect against?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>What does Furniture Coating protect against?</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Can Furniture Coating be applied on different materials?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>Can Furniture Coating be applied on different materials?</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Will the coating affect the original appearance of my furniture?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>Will the coating affect the original appearance of my furniture?</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Is Furniture Coating suitable for luxury furniture?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>Is Furniture Coating suitable for luxury furniture?</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Is it safe for leather seats and interior surfaces?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>Is it safe for leather seats and interior surfaces?</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->

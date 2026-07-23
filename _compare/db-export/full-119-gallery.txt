@@ -1,0 +1,683 @@
+﻿<!-- wp:group {"className":"cp-gallery-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-gallery-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-gallery-container"} -->
+<div class="wp-block-group cp-gallery-container">
+<!-- wp:group {"className":"cp-gallery-header all-heading"} -->
+<div class="wp-block-group cp-gallery-header all-heading">
+<!-- wp:heading {"level":2} -->
+<h2>Our Works</h2>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-grid"} -->
+<div class="wp-block-group cp-gallery-grid">
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-01.webp","alt":"Gallery Image 1","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-01.webp" alt="Gallery Image 1" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-02.webp","alt":"Gallery Image 2","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-02.webp" alt="Gallery Image 2" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-03.webp","alt":"Gallery Image 3","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-03.webp" alt="Gallery Image 3" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-04.webp","alt":"Gallery Image 4","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-04.webp" alt="Gallery Image 4" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-05.webp","alt":"Gallery Image 5","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-05.webp" alt="Gallery Image 5" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-06.webp","alt":"Gallery Image 6","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-06.webp" alt="Gallery Image 6" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-07.webp","alt":"Gallery Image 7","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-07.webp" alt="Gallery Image 7" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-08.webp","alt":"Gallery Image 8","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-08.webp" alt="Gallery Image 8" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-09.webp","alt":"Gallery Image 9","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-09.webp" alt="Gallery Image 9" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-10.webp","alt":"Gallery Image 10","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-10.webp" alt="Gallery Image 10" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-11.webp","alt":"Gallery Image 11","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-11.webp" alt="Gallery Image 11" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-12.webp","alt":"Gallery Image 12","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-12.webp" alt="Gallery Image 12" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-13.webp","alt":"Gallery Image 13","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-13.webp" alt="Gallery Image 13" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-14.webp","alt":"Gallery Image 14","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-14.webp" alt="Gallery Image 14" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-15.webp","alt":"Gallery Image 15","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-15.webp" alt="Gallery Image 15" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-16.webp","alt":"Gallery Image 16","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-16.webp" alt="Gallery Image 16" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-17.webp","alt":"Gallery Image 17","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-17.webp" alt="Gallery Image 17" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-18.webp","alt":"Gallery Image 18","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-18.webp" alt="Gallery Image 18" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-19.webp","alt":"Gallery Image 19","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-19.webp" alt="Gallery Image 19" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-20.webp","alt":"Gallery Image 20","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-20.webp" alt="Gallery Image 20" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21.webp","alt":"Gallery Image 21","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21.webp" alt="Gallery Image 21" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-22.webp","alt":"Gallery Image 22","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-22.webp" alt="Gallery Image 22" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-23.webp","alt":"Gallery Image 23","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-23.webp" alt="Gallery Image 23" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-24.webp","alt":"Gallery Image 24","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-24.webp" alt="Gallery Image 24" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-7.webp","alt":"Mercedes G-Class AMG inside a detailing bay","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-7.webp" alt="Mercedes G-Class AMG inside a detailing bay" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-6.webp","alt":"White MG SUV inside a ceramic coating studio","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-6.webp" alt="White MG SUV inside a ceramic coating studio" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-5.webp","alt":"SUV front view inside the Ceramic Pro showroom","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-5.webp" alt="SUV front view inside the Ceramic Pro showroom" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-4.webp","alt":"Black BMW sedan in a detailing bay","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-4.webp" alt="Black BMW sedan in a detailing bay" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-3.webp","alt":"Volkswagen SUV inside the Ceramic Pro workshop","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-3.webp" alt="Volkswagen SUV inside the Ceramic Pro workshop" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-2.webp","alt":"Blue BMW SUV parked outside the Ceramic Pro store","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-2.webp" alt="Blue BMW SUV parked outside the Ceramic Pro store" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-1.webp","alt":"White Lamborghini Urus inside a lighting tunnel","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21-1.webp" alt="White Lamborghini Urus inside a lighting tunnel" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-gallery-item"} -->
+<div class="wp-block-group cp-gallery-item">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21.webp","alt":"Silver Honda sedan inside a detailing studio","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/ceramicpro-gallerypage-updatedimg-21.webp" alt="Silver Honda sedan inside a detailing studio" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"cp-gallery-overlay"} -->
+<div class="wp-block-group cp-gallery-overlay">
+<!-- wp:group {"className":"cp-gallery-icon-wrapper"} -->
+<div class="wp-block-group cp-gallery-icon-wrapper">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png","alt":"Zoom Icon","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/05/gallery-page-icon.png" alt="Zoom Icon" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-lightbox-modal","anchor":"cpGlobalLightbox"} -->
+<div class="wp-block-group cp-lightbox-modal">
+<!-- wp:html -->
+<button class="cp-lightbox-close" aria-label="Close Gallery Modal">₧</button>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<button class="cp-lightbox-nav cp-nav-left" aria-label="Previous image">?</button>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-lightbox-content-box"} -->
+<div class="wp-block-group cp-lightbox-content-box">
+<!-- wp:image {"url":"","alt":"Active Fullscreen Display","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="" alt="Active Fullscreen Display" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:html -->
+<button class="cp-lightbox-nav cp-nav-right" aria-label="Next image">?</button>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->

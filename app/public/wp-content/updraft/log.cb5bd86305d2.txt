@@ -1,0 +1,6 @@
+0000.003 (0) Opened log file at time: Wed, 22 Jul 2026 06:43:52 +0000 on http://ceramic-pro-new.local
+0000.022 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.4 WP: 7.0.2 PHP: 8.2.29 (cgi-fcgi, Windows NT RORKO_DEV 10.0 build 26200 (Windows 11) AMD64) MySQL: 8.4.0 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.2M | 8M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.038 (0) Free space on disk containing Updraft's temporary directory: 288866.3 MB
+0000.322 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.339 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.433 (0) Scheduled backup aborted - another backup of this type was apparently invoked by the WordPress scheduler only 532 seconds ago - the WordPress scheduler invoking events multiple times usually indicates a very overloaded server (or other plugins that mis-use the scheduler)

@@ -1,0 +1,437 @@
+﻿<!-- wp:group {"className":"cp-hero-section   all-heading pdng-lt-rt pdng-tp bann-padd-btm"} -->
+<div class="wp-block-group cp-hero-section   all-heading pdng-lt-rt pdng-tp bann-padd-btm">
+<!-- wp:group {"className":"cp-hero-container"} -->
+<div class="wp-block-group cp-hero-container">
+<!-- wp:group {"className":"cp-hero-grid"} -->
+<div class="wp-block-group cp-hero-grid">
+<!-- wp:group {"className":"cp-hero-left"} -->
+<div class="wp-block-group cp-hero-left">
+<!-- wp:heading {"level":1} -->
+<h1>Ceramic Coating for Ultimate Paint Protection</h1>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-hero-right"} -->
+<div class="wp-block-group cp-hero-right">
+<!-- wp:paragraph -->
+<p>Enhance your car's appearance while protecting it from daily wear. Our Ceramic Coating service delivers a high-gloss finish and durable protection that keeps your vehicle looking new for years.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-about-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-about-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-about-container"} -->
+<div class="wp-block-group cp-about-container">
+<!-- wp:group {"className":"cp-about-left"} -->
+<div class="wp-block-group cp-about-left">
+<!-- wp:heading {"level":2} -->
+<h2>What is Ceramic Coating?</h2>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-about-right"} -->
+<div class="wp-block-group cp-about-right">
+<!-- wp:heading {"level":5,"className":"cp-text-lead"} -->
+<h5>Ceramic coating is a high-performance liquid polymer applied to a vehicle?s exterior to create a strong, invisible protective layer over the paint. Once applied, it chemically bonds with the surface, making it far more durable than traditional waxes or paint sealants that wear off quickly.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:group {"className":"cp-text-columns"} -->
+<div class="wp-block-group cp-text-columns">
+<!-- wp:paragraph -->
+<p>This advanced coating helps protect the vehicle from UV rays, oxidation, dirt, chemical stains, water spots, and environmental contaminants. It also provides excellent hydrophobic properties, causing water and dust to slide off easily, making maintenance simpler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition to protection, ceramic coating enhances the vehicle?s gloss, color depth, and overall appearance, helping it maintain a showroom-like finish for years with proper care and maintenance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-shine-showcase-section pdng-lt-rt bann-padd-btm pdng-tp-new-sec all-heading"} -->
+<div class="wp-block-group cp-shine-showcase-section pdng-lt-rt bann-padd-btm pdng-tp-new-sec all-heading">
+<!-- wp:group {"className":"shine-header-block"} -->
+<div class="wp-block-group shine-header-block">
+<!-- wp:heading {"level":2} -->
+<h2>More Than Just Shine.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ceramic coating creates a protective barrier that actively repels contaminants. Your vehicle looks better and stays protected every day.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-mobile-media-box mobile-only"} -->
+<div class="wp-block-group shine-mobile-media-box mobile-only">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/Ceramic-Coating-3rdsec.webp","alt":"Automotive Protection Processing","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/Ceramic-Coating-3rdsec.webp" alt="Automotive Protection Processing" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-features-matrix-row"} -->
+<div class="wp-block-group shine-features-matrix-row">
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">01</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Enhances depth and gloss</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">02</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Repels water, dirt, and contaminants</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">03</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Reduces minor swirl marks</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">04</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Protects against UV damage and oxidation</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-why-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-why-container"} -->
+<div class="wp-block-group cp-why-container">
+<!-- wp:group {"className":"cp-why-header"} -->
+<div class="wp-block-group cp-why-header">
+<!-- wp:heading {"level":2} -->
+<h2>Why Choose Ceramic Coating</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>It's an investment in your vehicle's appearance and longevity.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-grid"} -->
+<div class="wp-block-group cp-why-grid">
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Long-Lasting<br>Shield</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Outperforms wax with extended durability</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Mirror Gloss<br>Finish</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Delivers deep, high-reflective shine</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Environmental<br>Protection</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Shields against dirt, UV, and contaminants</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Easy<br>Maintenance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Simplifies regular cleaning and upkeep</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-faq-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-faq-container"} -->
+<div class="wp-block-group cp-faq-container">
+<!-- wp:group {"className":"cp-faq-header"} -->
+<div class="wp-block-group cp-faq-header">
+<!-- wp:heading {"level":2} -->
+<h2>Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>
+
+        Everything you need to know about our Ceramic Coating process and
+
+        post-care maintenance.
+
+      </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-list"} -->
+<div class="wp-block-group cp-faq-list">
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>How long does ceramic coating last?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+            It can last several years depending on the package and maintenance.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Does ceramic coating prevent scratches?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+             It reduces minor swirl marks but does not stop deep scratches.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Is ceramic coating better than waxing?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+             Yes, it provides longer protection and better finish than wax.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>How do I maintain a ceramic-coated car?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+          Regular washing with proper methods is enough to maintain it.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Can ceramic coating be applied on a new car?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+              Yes, it is ideal for new cars to protect the paint from day one.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->

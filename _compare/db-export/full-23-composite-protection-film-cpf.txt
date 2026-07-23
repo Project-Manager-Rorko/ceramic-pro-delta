@@ -1,0 +1,445 @@
+﻿<!-- wp:group {"className":"cp-hero-section all-heading comp-bann-bg pdng-lt-rt pdng-tp bann-padd-btm"} -->
+<div class="wp-block-group cp-hero-section all-heading comp-bann-bg pdng-lt-rt pdng-tp bann-padd-btm">
+<!-- wp:group {"className":"cp-hero-container"} -->
+<div class="wp-block-group cp-hero-container">
+<!-- wp:group {"className":"cp-hero-grid"} -->
+<div class="wp-block-group cp-hero-grid">
+<!-- wp:group {"className":"cp-hero-left"} -->
+<div class="wp-block-group cp-hero-left">
+<!-- wp:heading {"level":1} -->
+<h1>Composite Protection Film</h1>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-hero-right"} -->
+<div class="wp-block-group cp-hero-right">
+<!-- wp:paragraph -->
+<p>Protect your vehicle with Composite Protection Film (CPF), combining advanced film strength with ceramic technology for superior gloss and durability. Enhanced with FCCT and Ceramic Pro ION coating, it protects against scratches, stains, and everyday environmental damage.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-about-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-about-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-about-container"} -->
+<div class="wp-block-group cp-about-container">
+<!-- wp:group {"className":"cp-about-left"} -->
+<div class="wp-block-group cp-about-left">
+<!-- wp:heading {"level":2} -->
+<h2>What Is Composite Protection Film (CPF)?</h2>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-about-right"} -->
+<div class="wp-block-group cp-about-right">
+<!-- wp:heading {"level":5,"className":"cp-text-lead"} -->
+<h5>Composite Protection Film (CPF) is an advanced vehicle protection system developed using patented Flexible Ceramic Composite Technology (FCCT). Unlike traditional Paint Protection Film (PPF), CPF structurally integrates advanced protection film technology with nanoceramic coating performance into a single protective system.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:group {"className":"cp-text-columns"} -->
+<div class="wp-block-group cp-text-columns">
+<!-- wp:paragraph -->
+<p>Boosted with Ceramic Pro ION coating and powered by Ion Exchange Technology, CPF delivers the combined benefits of paint protection film and ceramic coatings while overcoming the limitations of both.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The result is a stronger, glossier, more durable protective surface that enhances your vehicle's appearance while protecting it from environmental contaminants, scratches, stains, UV exposure, and daily wear.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-shine-showcase-section comp-new-sec pdng-lt-rt bann-padd-btm pdng-tp-new-sec  all-heading"} -->
+<div class="wp-block-group cp-shine-showcase-section comp-new-sec pdng-lt-rt bann-padd-btm pdng-tp-new-sec  all-heading">
+<!-- wp:group {"className":"shine-header-block"} -->
+<div class="wp-block-group shine-header-block">
+<!-- wp:heading {"level":2} -->
+<h2>More Than Traditional Paint Protection.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Composite Protection Film actively protects your vehicle while enhancing gloss, clarity, &amp; surface performance. The integrated ceramic technology creates a smoother, more refined finish with advanced long-term protection.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-mobile-media-box mobile-only"} -->
+<div class="wp-block-group shine-mobile-media-box mobile-only">
+<!-- wp:image {"url":"http://ceramic-pro-new.local/wp-content/uploads/2026/06/CPF-3rdsec.webp","alt":"Automotive Protection Processing","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="http://ceramic-pro-new.local/wp-content/uploads/2026/06/CPF-3rdsec.webp" alt="Automotive Protection Processing" /></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-features-matrix-row"} -->
+<div class="wp-block-group shine-features-matrix-row">
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">01</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Protects against scratches, &amp; debris</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">02</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Enhances gloss &amp; paint depth</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">03</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Repels water, dirt &amp; contaminants</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"shine-feature-card"} -->
+<div class="wp-block-group shine-feature-card">
+<!-- wp:group {"className":"feature-card-meta-flex"} -->
+<div class="wp-block-group feature-card-meta-flex">
+<!-- wp:html -->
+<span class="feature-index-num">04</span>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Protects against UV damage &amp; oxidation</h4>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-why-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-why-container"} -->
+<div class="wp-block-group cp-why-container">
+<!-- wp:group {"className":"cp-why-header"} -->
+<div class="wp-block-group cp-why-header">
+<!-- wp:group {"className":"head-new-sec"} -->
+<div class="wp-block-group head-new-sec">
+<!-- wp:heading {"level":2} -->
+<h2>Why Choose Composite Protection Film (CPF)</h2>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"head-new-sec"} -->
+<div class="wp-block-group head-new-sec">
+<!-- wp:paragraph -->
+<p>The evolution of modern paint protection technology. Composite Protection Film offers a more advanced solution than conventional paint protection systems by combining multiple protection technologies into one integrated surface.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-grid"} -->
+<div class="wp-block-group cp-why-grid">
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Advanced Composite Tech</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Flexible ceramic technology for superior performance</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>ION Coating Enhanced</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Boosted with Ceramic Pro ION layer</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>High Gloss Finish</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Delivers superior shine and clarity</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-why-card"} -->
+<div class="wp-block-group cp-why-card">
+<!-- wp:heading {"level":3} -->
+<h3>Surface Protection</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Guards against scratches, stains, contaminants</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-section pdng-lt-rt pdng-tp-btm all-heading"} -->
+<div class="wp-block-group cp-faq-section pdng-lt-rt pdng-tp-btm all-heading">
+<!-- wp:group {"className":"cp-faq-container"} -->
+<div class="wp-block-group cp-faq-container">
+<!-- wp:group {"className":"cp-faq-header"} -->
+<div class="wp-block-group cp-faq-header">
+<!-- wp:heading {"level":2} -->
+<h2>Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>
+
+        Everything you need to know about our Ceramic Coating process and
+
+        post-care maintenance.
+
+      </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-list"} -->
+<div class="wp-block-group cp-faq-list">
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>What makes Composite Protection Film different from regular PPF?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+              Composite Protection Film combines advanced protection film technology with integrated ceramic performance for enhanced durability, gloss, and surface protection.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Does CPF provide ceramic coating benefits?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+             Yes. CPF integrates ceramic technology to improve hydrophobic performance, gloss, stain resistance, and surface smoothness.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Does Composite Protection Film protect against scratches?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+             CPF helps protect against minor scratches, swirl marks, road debris, and daily surface damage.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>How long does Composite Protection Film last?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+             Its lifespan depends on maintenance, driving conditions, and usage, but it is designed for long-term protection performance.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-item"} -->
+<div class="wp-block-group cp-faq-item">
+<!-- wp:group {"className":"cp-faq-trigger"} -->
+<div class="wp-block-group cp-faq-trigger">
+<!-- wp:html -->
+<span>Can CPF be applied on a new car?</span>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"cp-faq-icon"} -->
+<div class="wp-block-group cp-faq-icon">
+<!-- wp:html -->
+<div class="cp-faq-icon"></div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"cp-faq-content"} -->
+<div class="wp-block-group cp-faq-content">
+<!-- wp:group {"className":"cp-faq-inner"} -->
+<div class="wp-block-group cp-faq-inner">
+<!-- wp:paragraph -->
+<p>
+
+             Yes. It is highly recommended for new vehicles to preserve paint quality from the beginning.
+
+            </p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->

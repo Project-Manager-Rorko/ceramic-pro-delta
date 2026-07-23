@@ -1,0 +1,251 @@
+﻿<style>
+.ceramic-pro-homepage{background:#111317;color:#fff;overflow:hidden}
+.ceramic-pro-homepage *{box-sizing:border-box}
+.ceramic-pro-homepage img{display:block;width:100%;height:auto;object-fit:cover}
+.ceramic-pro-homepage .wrap{width:min(1280px,100% - 48px);margin:0 auto}
+.ceramic-pro-homepage a{text-decoration:none;color:#fff}
+.ceramic-pro-homepage .eyebrow{font-size:10px;letter-spacing:.3em;text-transform:uppercase;color:#9ca3af}
+.ceramic-pro-homepage h1{font-family:"Syne",sans-serif;font-size:clamp(38px,5vw,62px);line-height:1.03;margin:0 0 14px;font-weight:600;letter-spacing:-.02em}
+.ceramic-pro-homepage h2{font-family:"Syne",sans-serif;font-size:clamp(30px,3.4vw,46px);line-height:1.1;margin:0 0 10px;font-weight:500;letter-spacing:-.02em}
+.ceramic-pro-homepage h3{font-family:"Syne",sans-serif;font-size:clamp(22px,2.1vw,34px);line-height:1.2;margin:0 0 8px;font-weight:500}
+.ceramic-pro-homepage p{font-family:"Geist",sans-serif;font-size:15px;line-height:1.7;color:#cfd3db;margin:0}
+.ceramic-pro-homepage .btn{display:inline-flex;align-items:center;justify-content:center;background:#e73397;color:#fff;border-radius:6px;padding:12px 18px;font:600 13px/1 "Geist",sans-serif;letter-spacing:.03em;text-transform:uppercase;transition:.25s}
+.ceramic-pro-homepage .btn:hover{transform:translateY(-1px);filter:brightness(1.08)}
+
+.ceramic-pro-homepage .hdr{position:sticky;top:0;z-index:50;background:rgba(9,11,16,.62);backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,.08)}
+.ceramic-pro-homepage .hdr .in{min-height:72px;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:20px}
+.ceramic-pro-homepage .logo img{width:auto;height:32px}
+.ceramic-pro-homepage .nav{display:flex;justify-content:center;gap:26px}
+.ceramic-pro-homepage .nav a{font:500 11px/1 "Geist",sans-serif;letter-spacing:.11em;text-transform:uppercase;color:#c8ced8;transition:.2s}
+.ceramic-pro-homepage .nav a:hover{color:#fff}
+.ceramic-pro-homepage .menu{display:none;background:none;border:0;color:#fff;font-size:24px}
+
+.ceramic-pro-homepage .hero{position:relative;background:
+radial-gradient(ellipse at 75% 30%,rgba(136,165,197,.22),transparent 40%),
+linear-gradient(180deg,#10131a 0%,#090b10 70%,#111318 100%);padding:38px 0 24px}
+.ceramic-pro-homepage .hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(6,8,12,.88),rgba(6,8,12,.28));pointer-events:none}
+.ceramic-pro-homepage .hero .in{position:relative;z-index:1}
+.ceramic-pro-homepage .hero-top{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:center}
+.ceramic-pro-homepage .hero-note{justify-self:end;text-align:right;max-width:260px;display:grid;gap:12px}
+.ceramic-pro-homepage .hero-note p{font-size:13px;line-height:1.6}
+.ceramic-pro-homepage .hero-car{max-width:760px;margin:16px auto 14px;filter:drop-shadow(0 20px 45px rgba(0,0,0,.58))}
+.ceramic-pro-homepage .awards{display:flex;justify-content:center;gap:14px;margin-top:10px}
+.ceramic-pro-homepage .awards img{width:56px;height:56px;object-fit:contain}
+
+.ceramic-pro-homepage section{padding:84px 0}
+.ceramic-pro-homepage .about{background:#1a1d23;text-align:center}
+.ceramic-pro-homepage .about .lead{max-width:860px;margin:0 auto 10px}
+.ceramic-pro-homepage .line-link{display:inline-flex;gap:10px;align-items:center;margin-top:16px;font:600 12px/1 "Geist",sans-serif;letter-spacing:.08em;text-transform:uppercase}
+.ceramic-pro-homepage .line-link:after{content:"";width:26px;height:1px;background:#fff;opacity:.8}
+.ceramic-pro-homepage .about-grid{margin-top:34px;display:grid;grid-template-columns:repeat(5,1fr);gap:0;border-radius:12px;overflow:hidden}
+.ceramic-pro-homepage .about-grid img{aspect-ratio:1/1;transition:.35s}
+.ceramic-pro-homepage .about-grid img:hover{transform:scale(1.05)}
+
+.ceramic-pro-homepage .kavaca{background:#0f1218}
+.ceramic-pro-homepage .k-grid{display:grid;grid-template-columns:1fr 1fr;gap:34px;align-items:start}
+.ceramic-pro-homepage .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;margin-top:24px}
+.ceramic-pro-homepage .stats .item{padding-bottom:14px;border-bottom:1px solid rgba(255,255,255,.13)}
+.ceramic-pro-homepage .stats b{display:block;font:700 clamp(34px,3vw,50px)/1 "Syne",sans-serif;color:#fff;margin-bottom:6px}
+.ceramic-pro-homepage .k-img-big,.ceramic-pro-homepage .k-img-sm{border-radius:10px;overflow:hidden}
+.ceramic-pro-homepage .k-img-sm{margin-top:22px}
+.ceramic-pro-homepage .services-list{margin-top:26px;border-top:1px solid rgba(255,255,255,.1)}
+.ceramic-pro-homepage .services-list a{display:grid;grid-template-columns:34px 1fr auto;align-items:center;gap:12px;padding:15px 0;border-bottom:1px solid rgba(255,255,255,.1);font-size:26px;font-family:"Syne",sans-serif}
+.ceramic-pro-homepage .services-list small{font:600 11px/1 "Geist",sans-serif;color:#9ca3af;letter-spacing:.06em}
+.ceramic-pro-homepage .services-list em{font-style:normal;color:#d5dae4}
+
+.ceramic-pro-homepage .why{background:#1a1d23}
+.ceramic-pro-homepage .why-top{display:grid;grid-template-columns:1.1fr .9fr;gap:28px;align-items:start;margin-bottom:16px}
+.ceramic-pro-homepage .why-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:rgba(255,255,255,.1)}
+.ceramic-pro-homepage .why-cards article{background:#13171d;padding:24px}
+.ceramic-pro-homepage .why-cards b{display:block;font:700 38px/1 "Syne",sans-serif;color:#aeb5c2;margin-bottom:8px}
+.ceramic-pro-homepage .why-img{border-radius:10px;overflow:hidden;align-self:end}
+
+.ceramic-pro-homepage .testi{background:#12151b;text-align:center}
+.ceramic-pro-homepage .t-track{margin-top:30px;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.ceramic-pro-homepage .t-card{background:#191d24;border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:20px;text-align:left}
+.ceramic-pro-homepage .t-card h4{font:600 30px/1.2 "Syne",sans-serif;margin:0 0 8px}
+.ceramic-pro-homepage .t-card p{font-size:14px;line-height:1.7}
+.ceramic-pro-homepage .t-meta{margin-top:14px;padding-top:10px;border-top:1px solid rgba(255,255,255,.1);font-size:12px;color:#aeb5c2}
+
+.ceramic-pro-homepage .portfolio{background:#0f1218}
+.ceramic-pro-homepage .port-head{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:20px}
+.ceramic-pro-homepage .port-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.ceramic-pro-homepage .port-grid img{aspect-ratio:3/4;border-radius:10px;transition:.35s}
+.ceramic-pro-homepage .port-grid img:hover{transform:scale(1.03)}
+
+.ceramic-pro-homepage .business{background:#11141a;text-align:center}
+.ceramic-pro-homepage .world{max-width:860px;margin:20px auto 0;position:relative}
+.ceramic-pro-homepage .biz-stats{display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:860px;margin:18px auto 0}
+.ceramic-pro-homepage .biz-stats article{display:grid;gap:4px;justify-items:center}
+.ceramic-pro-homepage .biz-stats b{font:700 clamp(36px,3vw,54px)/1 "Syne",sans-serif}
+.ceramic-pro-homepage .tags{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:18px}
+.ceramic-pro-homepage .tags span{border-radius:999px;padding:8px 14px;background:#1c212a;border:1px solid rgba(255,255,255,.12);font-size:13px;color:#d9deea}
+
+.ceramic-pro-homepage .ftr{background:#14171d 50%/cover no-repeat;padding:0}
+.ceramic-pro-homepage .ftr-top{padding:48px 0 24px;background:linear-gradient(180deg,rgba(17,20,26,.96),rgba(17,20,26,.86))}
+.ceramic-pro-homepage .f-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.ceramic-pro-homepage .f-col{display:grid;gap:8px}
+.ceramic-pro-homepage .f-col h5{margin:0 0 6px;font:700 12px/1 "Geist",sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#eef1f9}
+.ceramic-pro-homepage .f-col a,.ceramic-pro-homepage .f-col p{font-size:14px;color:#cdd3df}
+.ceramic-pro-homepage .f-car img{height:180px;object-position:center}
+
+@media (max-width:1024px){
+  .ceramic-pro-homepage .wrap{width:min(1280px,100% - 34px)}
+  .ceramic-pro-homepage .hero-top,.ceramic-pro-homepage .k-grid,.ceramic-pro-homepage .why-top{grid-template-columns:1fr}
+  .ceramic-pro-homepage .hero-note{justify-self:start;text-align:left}
+  .ceramic-pro-homepage .about-grid{grid-template-columns:repeat(3,1fr)}
+  .ceramic-pro-homepage .t-track,.ceramic-pro-homepage .port-grid{grid-template-columns:1fr 1fr}
+}
+@media (max-width:767px){
+  .ceramic-pro-homepage .hdr .in{grid-template-columns:auto auto;min-height:64px}
+  .ceramic-pro-homepage .menu{display:block;justify-self:end}
+  .ceramic-pro-homepage .nav{display:none;position:absolute;left:16px;right:16px;top:64px;background:#0f131a;border:1px solid rgba(255,255,255,.14);padding:12px;border-radius:8px;flex-direction:column;gap:12px}
+  .ceramic-pro-homepage .nav.is-open{display:flex}
+  .ceramic-pro-homepage .hdr .btn{display:none}
+  .ceramic-pro-homepage section{padding:58px 0}
+  .ceramic-pro-homepage .wrap{width:min(1280px,100% - 24px)}
+  .ceramic-pro-homepage .about-grid{grid-template-columns:1fr 1fr}
+  .ceramic-pro-homepage .stats,.ceramic-pro-homepage .why-cards,.ceramic-pro-homepage .t-track,.ceramic-pro-homepage .port-grid,.ceramic-pro-homepage .biz-stats,.ceramic-pro-homepage .f-grid{grid-template-columns:1fr}
+  .ceramic-pro-homepage .services-list a{font-size:20px}
+  .ceramic-pro-homepage .f-car img{height:120px}
+}
+</style>
+
+<div class="ceramic-pro-homepage all-heading">
+  <header class="hdr">
+    <div class="wrap in">
+      <a class="logo" href="#"><img src="/wp-content/uploads/2026/05/logo.png" alt="Ceramic Pro"></a>
+      <button class="menu" aria-label="Menu">☰</button>
+      <nav class="nav" aria-label="Main Menu">
+        <a href="#">Home</a><a href="#about">About</a><a href="#services">Services</a><a href="#">Blogs</a><a href="#portfolio">Gallery</a><a href="#">Ceramic Pro</a>
+      </nav>
+      <a class="btn" href="tel:+916364268555">+91 63642 68555</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap in">
+      <div class="hero-top">
+        <div>
+          <h1>Driven By Protection.<br>Defined By Perfection</h1>
+        </div>
+        <div class="hero-note">
+          <p>New-level shine, protection, and long-lasting vehicle transformation</p>
+          <a class="btn" href="#contact">Contact Us</a>
+        </div>
+      </div>
+      <img class="hero-car" src="/wp-content/uploads/2026/05/hero-car.png" alt="Luxury SUV">
+      <div class="awards">
+        <img src="/wp-content/uploads/2026/05/award-1.png" alt="Award"><img src="/wp-content/uploads/2026/05/award-2.png" alt="Award"><img src="/wp-content/uploads/2026/05/award-3.png" alt="Award"><img src="/wp-content/uploads/2026/05/award-4.png" alt="Award">
+      </div>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap">
+      <p class="eyebrow">Detailing Done Right</p>
+      <h2>Mastering The Art Of Paint Protection.</h2>
+      <p class="lead">Ceramic Pro Mangalore is an authorized Ceramic Pro studio delivering high-quality detailing and paint protection services. Every vehicle is treated with precision, care, and a focus on achieving a flawless finish.</p>
+      <a href="#" class="line-link">Learn About Us</a>
+      <div class="about-grid">
+        <img src="/wp-content/uploads/2026/05/about-1.jpg" alt="Detailing"><img src="/wp-content/uploads/2026/05/about-2.jpg" alt="Detailing"><img src="/wp-content/uploads/2026/05/about-3.jpg" alt="Detailing"><img src="/wp-content/uploads/2026/05/about-4.jpg" alt="Detailing"><img src="/wp-content/uploads/2026/05/about-5.jpg" alt="Detailing">
+      </div>
+    </div>
+  </section>
+
+  <section class="kavaca" id="services">
+    <div class="wrap k-grid">
+      <div>
+        <h2>KAVACA Paint<br>Protection Film</h2>
+        <div class="stats">
+          <article class="item"><b>5</b><p>cities<br>Rome, Florence, Milan, Venice and Verona</p></article>
+          <article class="item"><b>10+</b><p>years<br>Years of well-coordinated work</p></article>
+          <article class="item"><b>120</b><p>cars<br>So many cars in our catalogue.</p></article>
+          <article class="item"><b>5000+</b><p>satisfied customers</p></article>
+        </div>
+        <div class="k-img-sm"><img src="/wp-content/uploads/2026/05/kavaca-feature.jpg" alt="Car"></div>
+      </div>
+      <div>
+        <p>Protect your vehicle's pristine finish with KAVACA PPF, the ultimate shield against road debris, scratches, and environmental elements. Engineered for maximum durability and visual clarity, our self-healing paint protection film ensures your car looks newer for longer.</p>
+        <div class="k-img-big" style="margin-top:18px"><img src="/wp-content/uploads/2026/05/kavaca-right.jpg" alt="Technician"></div>
+        <h3 style="margin-top:20px">Our Premium Services</h3>
+        <div class="services-list">
+          <a href="#"><small>01</small><span>Ceramic Coating</span><em>→</em></a>
+          <a href="#"><small>02</small><span>Kavaca PPF</span><em>→</em></a>
+          <a href="#"><small>03</small><span>Cleaning, Polishing & Conditioning</span><em>→</em></a>
+          <a href="#"><small>04</small><span>Composite Protection Film (CPF)</span><em>→</em></a>
+          <a href="#"><small>05</small><span>Furniture Coating</span><em>→</em></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="why">
+    <div class="wrap">
+      <div class="why-top">
+        <div>
+          <p class="eyebrow">The Mangalore Advantage</p>
+          <h2>Why Choose<br>Ceramic Pro Mangalore</h2>
+        </div>
+        <p>We focus on results that are visible, durable, and worth the investment.</p>
+      </div>
+      <div class="why-top" style="align-items:end">
+        <div class="why-cards">
+          <article><b>01</b><p>Certified Ceramic Pro applicators</p></article>
+          <article><b>02</b><p>Premium finish quality</p></article>
+          <article><b>03</b><p>Long-term paint protection</p></article>
+          <article><b>04</b><p>Professional detailing studio environment</p></article>
+        </div>
+        <div class="why-img"><img src="/wp-content/uploads/2026/05/why-image.jpg" alt="Mechanic"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="testi">
+    <div class="wrap">
+      <p class="eyebrow">Testimonials</p>
+      <h2>What Our Clients Say</h2>
+      <div class="t-track">
+        <article class="t-card"><h4>Highly Recommend</h4><p>We recently had the pleasure of visiting Ceramic Pro Mangalore for a ceramic coating job on our Land Cruiser 200, and we must say, the experience was exceptional.</p><div class="t-meta">BhavikSuvarna • 22/7/2024</div></article>
+        <article class="t-card"><h4>Impressed And Satisfying</h4><p>I got ceramic coating done for my Volkswagen at Ceramic Pro Mangalore, and I am very impressed and satisfied with the work they have done.</p><div class="t-meta">HrishikeshDasgupta • 16/7/2024</div></article>
+        <article class="t-card"><h4>Excellent Service</h4><p>Initially was little skeptical about should I get the ceramic done and is it really worth. Then I decided to go ahead and get it done.</p><div class="t-meta">Guruje BK • 1/10/2024</div></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="portfolio" id="portfolio">
+    <div class="wrap">
+      <div class="port-head"><h2>Our Work</h2><a class="line-link" href="#">View Gallery</a></div>
+      <div class="port-grid"><img src="/wp-content/uploads/2026/05/work-1.jpg" alt="Work"><img src="/wp-content/uploads/2026/05/work-2.jpg" alt="Work"><img src="/wp-content/uploads/2026/05/work-3.jpg" alt="Work"></div>
+    </div>
+  </section>
+
+  <section class="business">
+    <div class="wrap">
+      <h2>Our Business</h2>
+      <p>Group Delta encompasses companies spanning logistics, shipping, engineering, technology solutions, and construction - united by a founding philosophy of placing the customer at the heart of every operation.</p>
+      <div class="world"><img src="/wp-content/uploads/2026/05/world-map.png" alt="World map"></div>
+      <div class="biz-stats"><article><b>15+</b><p>Berths Operated</p></article><article><b>25M+</b><p>MT Cargo Handled Annually</p></article></div>
+      <div class="tags"><span>Group Delta</span><span>Delta Global</span><span>Worldwide Shipping</span><span>Root Delta - Oman</span><span>World Wide Automotive</span><span>DIWL Technologies</span><span>Tech Delta</span><span>DIWL</span><span>Delta (UAE)</span><span>Delta Port</span></div>
+    </div>
+  </section>
+
+  <footer class="ftr" id="contact">
+    <div class="ftr-top">
+      <div class="wrap f-grid">
+        <div class="f-col"><h5>Quick Links</h5><a href="#">Home</a><a href="#">About</a><a href="#">Blog</a><a href="#">Gallery</a><a href="#">Ceramic Pro</a><a href="#">Contact Us</a></div>
+        <div class="f-col"><h5>Services</h5><a href="#">Ceramic Coating</a><a href="#">Kavaca PPF</a><a href="#">Furniture Coating</a><a href="#">Cleaning, Polishing & Conditioning</a><a href="#">Composite Protection Film (CPF)</a></div>
+        <div class="f-col"><h5>Studio Information</h5><p>#901 Delta House kulur ferry road, kulur Mangalore</p><a href="tel:+916364268555">+916364268555</a><p>Mon - Sat: 9:00 AM - 7:00 PM</p></div>
+      </div>
+    </div>
+    <div class="f-car"><img src="/wp-content/uploads/2026/05/footer-car.jpg" alt="Car"></div>
+  </footer>
+</div>
+
+<script>
+(function(){
+  const root=document.querySelector('.ceramic-pro-homepage'); if(!root) return;
+  const btn=root.querySelector('.menu'); const nav=root.querySelector('.nav');
+  if(btn&&nav){btn.addEventListener('click',()=>nav.classList.toggle('is-open'));}
+})();
+</script>
